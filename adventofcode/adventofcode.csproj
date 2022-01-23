@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <AssemblyName>AdventOfCode.2021</AssemblyName>
+        <RootNamespace>AdventOfCode.2021</RootNamespace>
+    </PropertyGroup>
+
+</Project>
